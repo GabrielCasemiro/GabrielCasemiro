@@ -16,7 +16,7 @@ Passionate about technology, education and changing people's lives through progr
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&url=https://wa.me/+5519988809505)](https://wa.me/+5519988809505)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://sujeitoprogramador.com/)](mailto:gabrielcasemiro68@gmail.com)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&url=https://www.linkedin.com/in/gabriel-casemiro-74a89b128/)](https://www.linkedin.com/in/gabriel-casemiro-74a89b128/)
 - ⚡ Fun fact: I started my carrer as a web developer (HTML/CSS/Javascript), creating sites and e-commerces for small/medium companies in Brazil but I choosed back-end when I had my first professional experience.
 
 [![Blog](https://img.shields.io/website?label=gabrielcasemiro.com.br&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://gabrielcasemiro.com.br)
