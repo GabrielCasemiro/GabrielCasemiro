@@ -2,7 +2,7 @@
 
 Passionate about technology, education and changing people's lives through programming.
 
-- 🔭 I’m currently working at CI&T as a Software Architect on international projects (USA/Texas, American mass media corporation) applying and supporting AWS architected solutions.
+- 🔭 I’m currently working at Cisco Meraki as a Software Engineer on an international project 
 - 🧑‍🏫 I’ve created technology courses focused on programming, with over 6,500 students and 600 positive reviews. Check my courses here: 
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&url=https://udemy.com/user/gabriel-henrique-casemiro/)](https://udemy.com/user/gabriel-henrique-casemiro/)
