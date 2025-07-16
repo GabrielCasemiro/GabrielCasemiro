@@ -7,7 +7,6 @@ Passionate about technology, education and changing people's lives through progr
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&url=https://udemy.com/user/gabriel-henrique-casemiro/)](https://udemy.com/user/gabriel-henrique-casemiro/)
 
-- 🌱 I’m currently studying ETL (Extract, Transform and Load) processes and improving my knowledge in cloud computing.
 - 🤔 I’m looking for help people to start the programming their journey (usually junior developers) and also contribute with Python projects that can solve big company problems.
 
 - 💬 Ask me about my experience, projects, courses and feel free to share your projects with me. I'll be glad to help.
